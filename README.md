@@ -1,4 +1,4 @@
-#Headphone Spatialiser
+# Headphone Spatialiser
 
 This is a Headphone Spatialiser VST audio plug-in made by the Acoustics Research Centre at the University of Salford University.
 
